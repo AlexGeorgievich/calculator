@@ -33,6 +33,8 @@ Output: 3
 
 ./gradlew clean test allureReport
 
+Эта команда запустит локальный сервер и откроет отчет Allure в вашем браузере.
+
  - Просмотр отчета Allure. В командной строке выполните:
 
 ./gradlew allureServe
